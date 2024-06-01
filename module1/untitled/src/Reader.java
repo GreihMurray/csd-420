@@ -1,3 +1,6 @@
+//Greih Murray 6/1/2024
+// Read data from file
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;

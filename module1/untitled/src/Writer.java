@@ -1,3 +1,6 @@
+//Greih Murray 6/1/2024
+// Write random arrays to file
+
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
