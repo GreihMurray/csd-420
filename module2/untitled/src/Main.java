@@ -1,3 +1,6 @@
+// Greih Murray, 6/6/24, Module 2
+//Use recursive methods
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Recursive sum with i=4: " + recurse(4d));
