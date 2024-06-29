@@ -1,0 +1,28 @@
+.border-circle{
+    -fx-fill: white;
+    -fx-stroke: black;
+    -fx-border-style: solid solid solid solid;
+    -fx-border-color: black black black black;
+    -fx-border-width: 2;
+}
+
+.border-box{
+    -fx-fill: blue;
+    -fx-stroke: black;
+    -fx-stroke-width: 2;
+}
+
+.plain-circle{
+    -fx-fill: white;
+    -fx-stroke: black;
+}
+
+.red-circle{
+    -fx-fill: red;
+    -fx-stroke: red;
+}
+
+.green-circle{
+    -fx-fill: green;
+    -fx-stroke: green;
+}
